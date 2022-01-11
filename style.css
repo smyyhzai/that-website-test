@@ -1,7 +1,22 @@
+* {
+  height: 100%;
+  margin: 0;
+}
 .heading {
   text-align: center;
   position: absolute;
-  top: 30%;
-  left: 40%;
+  top: 1%;
   font-size: larger;
+  height: 50%;
+  width: 100%;
+}
+.text_box {
+  background-color: white;
+  top: 20%;
+  left: 20%;
+  height: auto;
+}
+
+.img {
+  justify-content: center;
 }
